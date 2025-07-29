@@ -1,0 +1,10 @@
+body {
+  font-family: 'Comic Sans MS', 'Comic Sans', cursive, sans-serif;
+  background: #f0f8ff;
+}
+
+#root {
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+}
